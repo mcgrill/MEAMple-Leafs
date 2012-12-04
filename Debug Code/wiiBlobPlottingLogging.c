@@ -1,12 +1,15 @@
 /*
-Michael Posner
-Levi Cai
-Sydney Jackopin
+// the meample leafs [[ meampleleafs.com ]]
+// ir logging code
+// by Nick McGill [[ nmcgill.com ]]
+
+Based on code by:
+	Michael Posner
+	Levi Cai
+	Sydney Jackopin
 
 MEAM 510
 ROBOCKEY
-
-IR test with MATLAB script
 */
 
 #include "m_general.h"
